@@ -4,7 +4,7 @@ Per-crate history extracted from the monolith changelog
 ([meshackbahati/toxi](https://github.com/meshackbahati/toxi/blob/main/CHANGELOG.md)),
 which remains the full documentation hub.
 
-## Unreleased
+## [3.2.0] - 2026-09-28
 
 - **toxi-realtime** (`3.2.0`): room join and create use one lookup and
   one name allocation through the entry API.
